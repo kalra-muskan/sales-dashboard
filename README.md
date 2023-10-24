@@ -41,4 +41,3 @@ Some suggestions based on the analysis are:
 - *Geographic Expansion*: San Francisco is a revenue driver. Expand there and learn from its success to apply elsewhere.
 - *Cost Management*: Monitor costs closely, even with high revenue and positive net profit. It's essential to maintain or increase profit margins.
 
-__For a better understanding of these insights, you can find the interactive Dashboard [Here](https://lookerstudio.google.com/u/1/reporting/cc2f4eaa-0417-4e31-a989-e996e701e237/page/lZQaD)__
